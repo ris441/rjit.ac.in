@@ -1,0 +1,27 @@
+body{
+    padding: 0%;
+    margin: 0%;
+}
+#head{
+    height: 10px;
+    background-color: rgb(160, 196, 218);
+    color: rgb(244, 244, 244);
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-size: xx-large;
+    text-align: center;
+    padding-top: 10%;
+    padding-bottom: 5%;
+   
+}
+a{text-decoration: none;
+    color: rgb(224, 214, 214);
+    padding: 2%;
+}
+.page :hover{
+    border-color: yellow;
+    border-radius: 3rem;
+}
+nav{
+    height: 25px;
+    background-color: rgba(127, 22, 22, 0.913);
+}
